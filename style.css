@@ -1,0 +1,59 @@
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+span {
+    color: #1877f2;
+}
+
+h1{
+    font-family: sans-serif;
+    margin-top: 150px;
+    font-size: 65px;
+    
+}
+.signup-img {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 100px;
+    right: 650px;
+}
+div{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    font-size: 25px;
+    border-left: 3px solid #1877f2;
+    height: 700px;
+    padding-left: 40px;
+}
+
+input{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid #1877f2;
+    margin-top: 20px;
+    padding-left: 10px;
+    font-size: 16px;
+    outline:none;
+    transition: border-color 0.3s box-shadow 0.3s;
+}
+button{
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+    background-color: #1877f2;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    width: 400px;
+}
+.forgotten-password {
+    background-color: transparent;
+    color: #1877f2;
+    
+}
